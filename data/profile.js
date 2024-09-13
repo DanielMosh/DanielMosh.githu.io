@@ -1,14 +1,14 @@
 const profileData = {
   title: "Resume",
-  name: "Aminu Mohammed",
+  name: "Frederick Dodzi Mensah",
   sub_title: "System Administrator and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
     contact: {
-      email: "ghana@gmail.com",
-      phone: "+233-9151413108",
-      address: "UK",
+      email: "mensahfrederickdodzi@gmail.com",
+      phone: "+1-5068971680",
+      address: "Canada",
     },
   },
   links: [
@@ -30,7 +30,7 @@ const profileData = {
     },
     {
       title: "Languages",
-      value: "Bash & Python Scripting",
+      value: "Bash, Java,JavaScript,C++ & Python Scripting",
     },
     {
       title: "Version Control",
