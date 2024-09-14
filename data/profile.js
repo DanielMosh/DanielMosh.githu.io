@@ -1,14 +1,14 @@
 const profileData = {
   title: "Resume",
-  name: "Frederick Dodzi Mensah",
+  name: "James Afful",
   sub_title: "System Administrator and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
+    intro: `Senior Software Engineer with 7 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
     contact: {
-      email: "mensahfrederickdodzi@gmail.com",
-      phone: "+1-5068971680",
-      address: "Canada",
+      email: "james.afful47@gmail.com",
+      phone: "+233 242969042",
+      address: "Ghana",
     },
   },
   links: [
